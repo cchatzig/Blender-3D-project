@@ -2,10 +2,10 @@
  Medium Complexity 3D scene in Blender
 
 This project contains:
-<li>
-<ul>Custom Meshes</ul>
-<ul>Custom Textures</ul>
-<ul>Custom Materials</ul>
-<ul>Displacement Mapping</ul>
-<ul><strong>Basic Animation</strong></ul>
-</li>
+<ul>
+<li>Custom Meshes</li>
+<li>Custom Textures</li>
+<li>Custom Materials</li>
+<li>Displacement Mapping</li>
+<li><strong>Basic Animation</strong></li>
+</ul>
